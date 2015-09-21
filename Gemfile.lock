@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:igorkasyanchuk/any_login.git
+  remote: git://github.com/igorkasyanchuk/any_login.git
   revision: 2cfaf73860fc0605628e3e95f5e1fcc65260edb7
   specs:
     any_login (0.0.1)

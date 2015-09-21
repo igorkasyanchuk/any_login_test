@@ -24,8 +24,7 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-#gem 'any_login', git: 'git@github.com:igorkasyanchuk/any_login.git'
-gem 'any_login', path: '../any_login'
+gem 'any_login', git: 'git@github.com:igorkasyanchuk/any_login.git'
 
 gem 'devise'
 
